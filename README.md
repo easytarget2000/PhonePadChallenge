@@ -10,4 +10,4 @@ Phone pad layout:
   0
   ```
   
-The solution is an Xcode Playground file written in Swift.
+The solution is an Xcode Playground file written in Swift; see PhonePadChallenge.playground/Contents.swift or open PhonePadChallenge.playground in Xcode.
